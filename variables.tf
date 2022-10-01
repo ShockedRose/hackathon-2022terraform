@@ -3,7 +3,7 @@ variable "app_repository" {
   description = "Copa's application for deployment"
 }
 variable "resource_group_name" {
-  default = "terraform-challenge"
+  default = "terraform-challenge-unicyt-tech"
 }
 variable "app_region" {
   default = "westus2"
